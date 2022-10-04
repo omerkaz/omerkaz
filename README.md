@@ -86,6 +86,7 @@ i keep improving my self every past day and trying to reach my best version. My 
 </td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerkaz&hide_border=true&layout=compact" align="left" style="width: 100%" />
+  ![Omer's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerkaz&show_icons=true&theme=radical)
 
 </td></tr></table>  
 
