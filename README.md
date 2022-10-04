@@ -75,22 +75,7 @@ i keep improving my self every past day and trying to reach my best version. My 
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
 </div>  
 
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=omerkaz&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerkaz&hide_border=true&layout=compact" align="left" style="width: 100%" />
-  [![Omer's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerkaz)](https://github.com/omerkaz/github-readme-stats)
-
-</td></tr></table>  
-
-<br/>  
+<br/> 
 
   
 
