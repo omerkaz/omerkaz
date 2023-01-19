@@ -28,9 +28,7 @@
 
 
 ### Glad to see you here!  
-As a person who spent his childhood and youth in connected with the digital world, i can say that "the internet created me". Accessing any information on the internet has always been piece of cake for me, out come of that coding is a tremendously fun ecosystem privilege for me both while learning and applying it. 
-I think as a self-aware and self-educated person, the information i wanted and reach, im perfectly good at practice it while working within the framework of discipline. Also i think that i am a person who has reached self-awareness and is also qualified in terms of communication. as a person in a team work collectively performance improver to those around my team trying to doing my best and i try to doing my part of the work, also help rest of the group members of their tasks. With the motto of "NO ZERO DAYS💪" 
-i keep improving my self every past day and trying to reach my best version. My career goal is to be a successful Senior Front-End Developer.  
+I grew up in the digital world and the internet helped shape me. I enjoy coding and have been self-taught. My goal is to become a successful Senior Front-End Developer and I strive to improve every day with the motto "NO ZERO DAYS💪." I am curious about everything and always looking for new opportunities to learn and grow.
   
 
 <br/>  
