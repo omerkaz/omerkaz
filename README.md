@@ -25,7 +25,10 @@
 
   
 
-<a href="https://ibb.co/ThwD5Qq"><img src="https://i.ibb.co/ThwD5Qq/Screenshot-1.png" alt="Screenshot-1" border="0"></a>
+<a href="https://ibb.co/ThwD5Qq">
+  My gitlab contribytions(11.02.2023)
+<img src="https://i.ibb.co/ThwD5Qq/Screenshot-1.png" alt="Screenshot-1" border="0">
+</a>
 
 ### Glad to see you here!  
 I grew up in the digital world and the internet helped shape me. I enjoy coding and have been self-taught. My goal is to become a successful Senior Front-End Developer and I strive to improve every day with the motto "NO ZERO DAYS💪." I am curious about everything and always looking for new opportunities to learn and grow.
