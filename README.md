@@ -27,22 +27,6 @@ I grew up in the digital world and the internet helped shape me. I enjoy coding 
 
 <br/>  
 
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I work at [Integrio](https://integrio.io).  
-  
-
-- 🌱 I’m currently learning Typescript, React and JEST.  
-  
-
-- ❓ Ask me about anything related to financial markets and cinema!  
-  
-
-- ⚡ Fun fact: I have a psychological novel that I left unfinished.   
-
-
 </td><td valign="top" width="50%">
 
 <div align="center">
