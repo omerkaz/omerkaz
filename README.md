@@ -14,10 +14,6 @@
 <img src=https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white alt=hackerrank style="margin-bottom: 5px;" />
 </a> 
 
-  
- #### My gitlab contributions(11.02.2023)
-<a href="https://ibb.co/ThwD5Qq">
-
 <img src="https://i.ibb.co/ThwD5Qq/Screenshot-1.png" alt="Screenshot-1" border="0" width=auto height=auto>
 </a>
 
