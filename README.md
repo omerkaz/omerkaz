@@ -1,1 +1,1 @@
-as possible as touch to the real world with making something.
+to make something that touches the real world as much as possible.
